@@ -2,7 +2,9 @@
     --main-color: rgb(0,191,255);
     --premain-color: rgb(30,144,255);
     --dgray-color:rgb(169,169,169);
-    --bg-color: rgb(220,220,220);
+    --bg-color: rgb(211,211,211);
+    --shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    --border:rgb(211,211,211);
   }
 *{
     box-sizing: border-box;
@@ -32,11 +34,7 @@ main{
     height:100%;
     border: 8px solid red;
 }
-.mainBody{
-    width: 70%;
-    height: 100%;
-    border: 8px solid blue;
-}
+
 .rightBody{
     width: 20%;
     height: 100%;
