@@ -1,0 +1,47 @@
+.mainBody{
+    width: 70%;
+    height: 100%;
+    border: 1px solid blue;
+}
+.upperMain{
+    width: 100%;
+    display: inline-block;
+    padding: 3%;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+.post-inp{
+    width: 100%;
+    padding: 2%;
+    font-size: 18px;
+    color: black;
+    /* border: var(--border) solid 1px; */
+}
+button{
+    width: 100px;
+    padding: 2%;
+    margin-top: 2%;
+    font-size: 18px;
+    background-color: var(--main-color);
+    color: white;
+    border: transparent;
+}
+.mainCont{
+    width: 100%;
+    padding: 3%;
+    margin-top: 3%;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+.rachelSine{
+    display: flex;
+    align-content: center;
+    border-bottom: 1 px solid var();
+}
+img{
+    width: 100px;
+    border-radius: 50%;
+}
+.sine{
+    width: 40%;
+}
