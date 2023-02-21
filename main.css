@@ -1,7 +1,6 @@
 .mainBody{
     width: 70%;
-    height: 100%;
-    border: 1px solid blue;
+    height: auto;
 }
 .upperMain{
     width: 100%;
@@ -18,7 +17,7 @@
     /* border: var(--border) solid 1px; */
 }
 button{
-    width: 100px;
+    width: auto;
     padding: 2%;
     margin-top: 2%;
     font-size: 18px;
@@ -35,13 +34,45 @@ button{
 }
 .rachelSine{
     display: flex;
-    align-content: center;
+    align-items: center;
+    justify-content: space-between;
     border-bottom: 1 px solid var();
 }
-img{
-    width: 100px;
+.imgProfile{
+    width: 70px;
     border-radius: 50%;
 }
 .sine{
     width: 40%;
+}
+.images{
+    display: flex;
+    align-items: center;
+
+    
+}
+.timing{
+    color: grey;
+}
+.nameInBox{
+    font-size: 25px;
+    padding: 0 10px;
+}
+
+.timing{
+    padding-bottom: 50px;
+}
+.containerbox{
+    margin-bottom: 30px;
+}
+hr{
+    margin-bottom: 20px;
+}
+.imagesInContainer img{
+    width: 48%;
+}
+.imagesInContainer{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px;
 }
