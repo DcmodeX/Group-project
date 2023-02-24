@@ -3,14 +3,17 @@
     height: auto;
 }
 .upperMain{
+    
     width: 100%;
     display: inline-block;
+    height: auto;
     padding: 3%;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
 }
 .post-inp{
     width: 100%;
+    height: auto;
     padding: 2%;
     font-size: 18px;
     color: black;
