@@ -28,6 +28,10 @@ button{
     color: white;
     border: transparent;
 }
+button:hover{
+    background-color: #b1c1c9;
+    color: black;
+}
 .mainCont{
     width: 100%;
     padding: 3%;
@@ -78,4 +82,12 @@ hr{
     display: flex;
     justify-content: space-between;
     padding: 10px 0px;
+}
+.dev{
+    width: 100%;
+    margin: 2% 0;
+}
+p{
+    font-size: larger;
+    font-weight: light;
 }
