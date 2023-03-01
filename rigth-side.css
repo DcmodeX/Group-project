@@ -1,0 +1,54 @@
+.cards{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: auto;
+    padding: 10%;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+.react{
+    width: 100%;
+}
+.btn{
+    width: 100%;
+    background-color: #dfe5e8;
+    color: black;
+    padding: 5% 0;
+}
+.btn:hover{
+    background-color: gainsboro;
+}
+.secCard{
+    margin-top: 10%;
+}
+.hus{
+    width: 50%;
+}
+.buTo{
+    display: flex;
+    width: 100%; 
+}
+.check{
+    width: 100%;
+    padding: 5% 0;
+}
+.bird{
+    background-color: #4CAF50;
+    opacity: .6;
+}
+.ex{
+    background-color: #f44336 ;
+    opacity: .6;
+}
+.ads{
+    margin-top: 10%;
+    padding: 20% 0;
+}
+.insect{
+    margin-top: 10%;
+    padding: 25% 0;
+    font-size: xxx-large;
+}
