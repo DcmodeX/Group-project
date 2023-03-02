@@ -93,7 +93,8 @@ footer {
   align-content: center;
   /* border:solid 2px white; */
   text-align: center;
-  padding-top: 4.5%;
-  
-
+  padding-top: 4%;
+}
+i:hover{
+  cursor: pointer;
 }

@@ -31,6 +31,7 @@ button{
 button:hover{
     background-color: #b1c1c9;
     color: black;
+    cursor: pointer;
 }
 .mainCont{
     width: 100%;
